@@ -23,6 +23,7 @@ How to clone a repo to my local computer "git clone ${link from github repo}"
 Here is usually how to update a repo : "git status" - "git add -A" - "gti commit -m "description of my update" " - "git push origin main (or your branch)"
 How to update your local repo by pulling the new version on GitHub: "git pull origin main"
 (Shift + Alt + A) allows for commenting using the files specific commenting structure
+git checkout -b new-branch-name
 
 
 
