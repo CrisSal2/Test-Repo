@@ -1,8 +1,17 @@
-.container1 {
-    width: 80%;
-    margin: 0 auto;
-    padding: 20px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    background-color: #f9f9f9;
+
+/****************************************************** Front page Styling ******************************************************/
+
+
+.container1 { /* Styling for the classes start with a "." */
+    width: 80%; /* Width of the container */
+    margin: 0 auto; /* Centering the container */
+    padding: 20px; /* Padding inside the container */
+    border: 1px solid #ccc; /* Light gray border */
+    border-radius: 5px; /* Rounded corners */
+    background-color: #f9f9f9; /* Light gray background */
+}
+
+#H-content { /* Styling for the id starts with a "#" */
+    color: white; /* Text color */
+    background-color: black; /* Background color */
 }
