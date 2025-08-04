@@ -3,8 +3,10 @@
 
 Day 1:
 
-  Learned to navigate computer using"
+  - Learned to navigate computer using terminal commands:
+
   cd : change directory
+  ls : list of everyting in the folder I'm in
   mkdir : make directory
   touch : create something
   pwd : print working directory
@@ -14,7 +16,13 @@ Day 1:
 
 Day 2:
 
-  
+  - Learned about Github and Git commands:
+
+How to create new projects on GitHub
+How to clone a repo to my local computer "git clone ${link from github repo}"
+Here is usually how to update a repo : "git status" - "git add -A" - "gti commit -m "description of my update" " - "git push origin main (or your branch)"
+How to update your local repo by pulling the new version on GitHub: "git pull origin main"
+
 
 
 -------------------------------------------------------------------------------------------------------------------------------
