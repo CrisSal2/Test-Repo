@@ -25,6 +25,11 @@ How to update your local repo by pulling the new version on GitHub: "git pull or
 (Shift + Alt + A) allows for commenting using the files specific commenting structure
 git checkout -b new-branch-name
 
+  - Branches
+
+git checkout -b ThisIsToCreateNewBranch
+
+git checout main  <!-- this is to switch branches -->
 
 
 -------------------------------------------------------------------------------------------------------------------------------
