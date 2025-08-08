@@ -17,3 +17,7 @@
 }
 
 
+.image {
+    height: 15rem; /* Height of the image */
+    object-fit: cover; /* Cover the container while maintaining aspect ratio */
+}
