@@ -1,6 +1,14 @@
 
 /****************************************************** Front page Styling ******************************************************/
 
+#header { /* Styling for the header */
+    background-color: #4CAF50; /* Green background color */
+    color: white; /* White text color */
+    text-align: center; /* Centered text */
+    width: 100%; /* Full width of the header */
+    border-color: #4CAF50; /* Border color matching the background */
+    border-style: solid; /* Solid border style */
+}
 
 .container1 { /* Styling for the classes start with a "." */
     width: 40%; /* Width of the container */
