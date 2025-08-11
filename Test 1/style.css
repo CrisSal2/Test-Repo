@@ -3,7 +3,7 @@
 
 
 .container1 { /* Styling for the classes start with a "." */
-    width: 80%; /* Width of the container */
+    width: 40%; /* Width of the container */
     margin: 0 auto; /* Centering the container */
     padding: 20px; /* Padding inside the container */
     border: 1px solid #ccc; /* Light gray border */
@@ -14,10 +14,24 @@
 #H-content { /* Styling for the id starts with a "#" */
     color: white; /* Text color */
     background-color: black; /* Background color */
+    width: 42%; /* Width of the content */
+    margin: 0 auto; /* Centering the content */
+    border-color: aqua; /* Border color */
+    border-style: solid; /* Solid border style */
+    border-radius: 5px; /* Rounded corners */
 }
 
 
 .image {
     height: 15rem; /* Height of the image */
     object-fit: cover; /* Cover the container while maintaining aspect ratio */
+}
+
+.footer {
+    background-color: #f1f1f1; /* Light gray background for the footer */
+    text-align: center; /* Centered text in the footer */
+    padding: 10px; /* Padding inside the footer */
+    position: relative; /* Positioning context for absolute elements inside */
+    bottom: 0; /* Stick to the bottom of the page */
+    width: 100%; /* Full width of the footer */
 }
